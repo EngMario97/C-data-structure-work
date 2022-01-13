@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1635984344 source:c:\users\hp\desktop\biopark\connect\estrutura de dados\trabalho avaliativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	"util.h"
+
+1635984364 c:\users\hp\desktop\biopark\connect\estrutura de dados\trabalho avaliativo\util.h
+
+1635985713 source:c:\users\hp\desktop\biopark\connect\estrutura de dados\trabalho avaliativo\util.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	"util.h"
+
